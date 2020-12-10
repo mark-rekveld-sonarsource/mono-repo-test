@@ -1,4 +1,4 @@
-name: Build
+name: Build Me
 on:
   push:
     branches:
